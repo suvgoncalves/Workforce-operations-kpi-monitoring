@@ -122,7 +122,6 @@ Ensures:
 
 ## 🚀 How to Run
 
-```bash
 git clone https://github.com/suvgoncalves/workforce-operations-kpi-monitoring
 cd workforce-operations-kpi-monitoring
 pip install -r requirements.txt
