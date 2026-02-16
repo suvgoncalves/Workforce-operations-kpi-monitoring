@@ -1,4 +1,4 @@
-# Workforce Operations KPI Monitoring
+Workforce Operations KPI Monitoring
 ### Operational performance monitoring and workforce analytics platform
 
 A data-driven workforce management and operational performance monitoring system built to support decision-making through KPIs, reporting and process visibility.
@@ -6,7 +6,7 @@ A data-driven workforce management and operational performance monitoring system
 This project simulates a real company operational environment where managers need to monitor attendance, productivity, absences and overtime in order to detect deviations and improve performance.
 
 
-## 🎯 Business Problem
+ 🎯 Business Problem
 
 Organizations often manage workforce attendance and operational performance using spreadsheets or fragmented tools, which leads to:
 
@@ -18,7 +18,7 @@ Organizations often manage workforce attendance and operational performance usin
 This platform centralizes operational data and transforms it into actionable insights through dashboards and automated reports.
 
 
-## 🧠 What This Project Demonstrates
+🧠 What This Project Demonstrates
 
 - KPI monitoring & operational performance analysis
 - Data validation & data quality control
@@ -29,9 +29,9 @@ This platform centralizes operational data and transforms it into actionable ins
 - Decision-support analytics
 
 
-## ⚙️ Core Features
+ ⚙️ Core Features
 
-### Workforce Management
+ Workforce Management
 - Employee records management (CRUD operations)
 - Attendance tracking (work, absence, vacation, leave)
 - Overtime calculation
