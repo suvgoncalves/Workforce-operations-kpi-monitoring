@@ -1,5 +1,5 @@
-# Workforce Operations KPI Monitoring
-### Operational performance monitoring and workforce analytics platform
+### Workforce Operations KPI Monitoring
+## Operational performance monitoring and workforce analytics platform
 
 A data-driven workforce management and operational performance monitoring system built to support decision-making through KPIs, reporting and process visibility.
 
