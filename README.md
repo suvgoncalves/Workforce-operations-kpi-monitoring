@@ -6,7 +6,7 @@ A data-driven workforce management and operational performance monitoring system
 This project simulates a real company operational environment where managers need to monitor attendance, productivity, absences and overtime in order to detect deviations and improve performance.
 
 
- 🎯 Business Problem
+ # 🎯 Business Problem
 
 ## Organizations often manage workforce attendance and operational performance using spreadsheets or fragmented tools, which leads to:
 
@@ -18,7 +18,7 @@ This project simulates a real company operational environment where managers nee
 This platform centralizes operational data and transforms it into actionable insights through dashboards and automated reports.
 
 
-🧠 What This Project Demonstrates
+# 🧠 What This Project Demonstrates
 
 - KPI monitoring & operational performance analysis
 - Data validation & data quality control
@@ -29,7 +29,7 @@ This platform centralizes operational data and transforms it into actionable ins
 - Decision-support analytics
 
 
- ⚙️ Core Features
+ # ⚙️ Core Features
 
 ### Workforce Management
 - Employee records management (CRUD operations)
@@ -49,7 +49,7 @@ This platform centralizes operational data and transforms it into actionable ins
 - Payroll support reports
 
 
- 📊 KPIs Tracked
+ # 📊 KPIs Tracked
 
 - Total worked hours
 - Overtime hours
@@ -59,7 +59,7 @@ This platform centralizes operational data and transforms it into actionable ins
 - Operational deviations
 
 
-🗄️ Data Architecture
+# 🗄️ Data Architecture
 
 Relational database designed to simulate a real ERP operational dataset:
 
@@ -77,7 +77,7 @@ Ensures:
 - Data consistency
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Frontend**
 - Streamlit
@@ -102,7 +102,7 @@ Ensures:
 - Git & GitHub
 
 
-🔄 Data Pipeline Flow
+# 🔄 Data Pipeline Flow
 
 1. User inputs operational data
 2. Data validated and stored in SQL database
@@ -112,7 +112,7 @@ Ensures:
 6. Reports generated
 
 
-🚀 How to Run
+# 🚀 How to Run
 
 git clone https://github.com/suvgoncalves/workforce-operations-kpi-monitoring
 cd workforce-operations-kpi-monitoring
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-🔮 Roadmap (Planned Enhancements)
+# 🔮 Roadmap (Planned Enhancements)
 
 - Role-based access control (RBAC)
 - Automated anomaly detection for attendance deviations
@@ -129,7 +129,7 @@ streamlit run app.py
 - Automated email alerts for operational risks
 
 
-👩‍💻 About the Author
+# 👩‍💻 About the Author
 
 Susana Gonçalves  
 Junior Operations & Performance Analyst
