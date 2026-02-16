@@ -8,7 +8,7 @@ This project simulates a real company operational environment where managers nee
 
  # 🎯 Business Problem
 
-## Organizations often manage workforce attendance and operational performance using spreadsheets or fragmented tools, which leads to:
+# Organizations often manage workforce attendance and operational performance using spreadsheets or fragmented tools, which leads to:
 
 - Lack of visibility over productivity
 - Delayed identification of operational issues
