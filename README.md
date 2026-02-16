@@ -5,7 +5,6 @@ A data-driven workforce management and operational performance monitoring system
 
 This project simulates a real company operational environment where managers need to monitor attendance, productivity, absences and overtime in order to detect deviations and improve performance.
 
----
 
 ## 🎯 Business Problem
 
@@ -18,7 +17,6 @@ Organizations often manage workforce attendance and operational performance usin
 
 This platform centralizes operational data and transforms it into actionable insights through dashboards and automated reports.
 
----
 
 ## 🧠 What This Project Demonstrates
 
@@ -30,7 +28,6 @@ This platform centralizes operational data and transforms it into actionable ins
 - Relational database modelling
 - Decision-support analytics
 
----
 
 ## ⚙️ Core Features
 
@@ -51,7 +48,6 @@ This platform centralizes operational data and transforms it into actionable ins
 - Export to Excel / CSV
 - Payroll support reports
 
----
 
 ## 📊 KPIs Tracked
 
@@ -62,7 +58,6 @@ This platform centralizes operational data and transforms it into actionable ins
 - Attendance consistency
 - Operational deviations
 
----
 
 ## 🗄️ Data Architecture
 
@@ -81,7 +76,6 @@ Ensures:
 - Historical tracking
 - Data consistency
 
----
 
 ## 🛠️ Tech Stack
 
@@ -107,7 +101,6 @@ Ensures:
 **Version Control**
 - Git & GitHub
 
----
 
 ## 🔄 Data Pipeline Flow
 
@@ -118,7 +111,6 @@ Ensures:
 5. Dashboard updated
 6. Reports generated
 
----
 
 ## 🚀 How to Run
 
@@ -127,7 +119,6 @@ cd workforce-operations-kpi-monitoring
 pip install -r requirements.txt
 streamlit run app.py
 
----
 
 ## 🔮 Roadmap (Planned Enhancements)
 
@@ -137,7 +128,6 @@ streamlit run app.py
 - Power BI integration for executive dashboards
 - Automated email alerts for operational risks
 
----
 
 ## 👩‍💻 About the Author
 
